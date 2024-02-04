@@ -30,3 +30,8 @@ Learn to analyze the hotel booking data to investigate cancellations and their u
     This is the last step where we will present a report to the Hotel management team by creating a visually appealing dashboard, in our case we present a Hotel Booking Cancellations 
     report after analyzing the dataset with the help of pivot tables and charts. We will also provide some crucial insights, which will help the hotel owner to set up a robust 
     cancellation policy to mitigate the last-minute cancellations of bookings and make a stable and healthy revenue. 
+
+    
+https://github.com/CoderNitu/Hotel_Booking_Cancellations_Data_Analysis/assets/87817227/fb0b7b21-8a46-41fa-b9e8-c030803cbb8a
+
+
